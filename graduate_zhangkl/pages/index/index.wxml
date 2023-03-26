@@ -1,19 +1,15 @@
 <!--index.wxml-->
 <view class="bg">
-  <!-- <view class="bg"> -->
     <view class="box_lt">
       专家介绍
     </view>
     <view class="box_rt">
       健康科普
     </view>
-  <!-- </view> -->
-  <!-- <view class="bg"> -->
     <view class="box_lb">
       术后护理及行为建议
     </view>
     <view class="box_rb">
       化疗康复
     </view>
-  <!-- </view> -->
 </view>
