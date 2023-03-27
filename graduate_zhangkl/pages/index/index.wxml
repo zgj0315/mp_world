@@ -1,15 +1,19 @@
 <!--index.wxml-->
 <view class="bg">
-    <view class="box_lt">
-      专家介绍
+    <view class="section_box_lt">
+      <text class="section_text">专家介绍</text>
+      <button>进入</button>
     </view>
-    <view class="box_rt">
-      健康科普
+    <view class="section_box_rt">
+      <text class="section_text">健康科普</text>
+      <button>进入</button>
     </view>
-    <view class="box_lb">
-      术后护理及行为建议
+    <view class="section_box_lb">
+      <text class="section_text">术后护理及行为建议</text>
+      <button>进入</button>
     </view>
-    <view class="box_rb">
-      化疗康复
+    <view class="section_box_rb">
+      <text class="section_text">化疗康复</text>
+      <button>进入</button>
     </view>
 </view>
