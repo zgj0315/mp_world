@@ -56,22 +56,22 @@
 						<image src="../images/icon_tabbar.png" alt class="weui-tabbar__icon"></image>
 						<text class="weui-badge" style="position: absolute; top: -2px; right: -13px;">8</text>
 					</view>
-					<view id="t1_title" aria-hidden="true" class="weui-tabbar__label">微信</view>
+					<view id="t1_title" aria-hidden="true" class="weui-tabbar__label">首页</view>
 				</view>
 				<view id="tab2" aria-labelledby="t2_title" aria-selected="false" aria-controls="panel2" class="weui-tabbar__item" aria-role="tab">
 					<image src="../images/icon_tabbar.png" alt class="weui-tabbar__icon"></image>
-					<view aria-hidden="true" id="t2_title" class="weui-tabbar__label">通讯录</view>
+					<view aria-hidden="true" id="t2_title" class="weui-tabbar__label">快速询问</view>
 				</view>
 				<view id="tab3" aria-labelledby="t3_title" aria-describedby="t3_tips" aria-selected="false" aria-controls="panel3" class="weui-tabbar__item" aria-role="tab">
 					<view id="t3_tips" aria-hidden="true" style="display: inline-block; position: relative;">
 						<image src="../images/icon_tabbar.png" alt class="weui-tabbar__icon"></image>
 						<text class="weui-badge weui-badge_dot" alt="new" style="position: absolute; top: 0; right: -6px;" aria-role="img"></text>
 					</view>
-					<view id="t3_title" aria-hidden="true" class="weui-tabbar__label">发现</view>
+					<view id="t3_title" aria-hidden="true" class="weui-tabbar__label">专家诊断</view>
 				</view>
 				<view id="tab4" aria-labelledby="t4_title" aria-selected="false" aria-controls="panel4" class="weui-tabbar__item" aria-role="tab">
 					<image src="../images/icon_tabbar.png" alt class="weui-tabbar__icon"></image>
-					<view class="weui-tabbar__label" aria-hidden="true" id="t4_title">我</view>
+					<view class="weui-tabbar__label" aria-hidden="true" id="t4_title">化疗康复</view>
 				</view>
 			</view>
 		</view>
