@@ -1,6 +1,10 @@
 {
   "pages":[
     "pages/index/index",
+    "pages/article/article01",
+    "pages/article/article02",
+    "pages/article/article03",
+    "pages/article/article04",
     "pages/logs/logs"
   ],
   "window":{
