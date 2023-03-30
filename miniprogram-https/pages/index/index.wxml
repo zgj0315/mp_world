@@ -1,2 +1,2 @@
 <!--index.wxml-->
-<view id="tapTest" data-hi="WeChat" bindtap="tabName">click me!</view>
+<text>当前时间: {{now}}</text>
