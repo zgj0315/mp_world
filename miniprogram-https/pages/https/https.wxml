@@ -1,0 +1,6 @@
+<!--pages/https/https.wxml-->
+
+<view wx:for="{{faq}}">
+  {{index}}: {{item.question}} {{item.answer}}
+</view>
+<view bindtap="httpsRequest"> Click me! </view>

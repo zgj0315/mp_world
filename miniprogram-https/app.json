@@ -1,7 +1,6 @@
 {
   "pages":[
-    "pages/wxml/wxml",
-    "pages/logs/logs"
+    "pages/https/https"
   ],
   "window":{
     "backgroundTextStyle":"light",
